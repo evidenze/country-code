@@ -1,0 +1,30 @@
+{
+    "name": "evidenze/country-code",
+    "description": "An international telephone country code generator",
+    "version": "1.0.0",
+    "type": "library",
+    "keywords": [
+        "phone","Africa","country code"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Essien Ekanem",
+            "role": "Developer",
+            "email": "evidenzeekanem@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Evidenze\\CountryCode\\": "src"
+        }
+    },
+    "require": {
+        
+    },
+    "require-dev": {
+        "phpunit/phpunit": "4.0.*"
+    }
+
+
+}
