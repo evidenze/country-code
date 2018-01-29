@@ -9,9 +9,8 @@ composer require evidenze/country-code
 
 ```php
 use Evidenze\CountryCode;
-```
 
-```php
+
 /**
 * The code below will return +234
 * Replace NIGERIA with any other country in Africa to get the country code
