@@ -14,4 +14,4 @@ use Evidenze\CountryCode
 ```php
 $nigeria = CountryCode::NIGERIA
 ```
-The code above will return +234
+The code above will return +234. Replace NIGERIA with any other country to get the country code.
