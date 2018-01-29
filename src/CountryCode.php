@@ -3,30 +3,12 @@ namespace Evidenze\CountryCode;
 
 class CountryCode
 {
-    /**
-     * Angola country code.
-     * @var int
-     */
-    public function angola()
-    {
-        return +244;
-    }
+    //Nigeria
+    const NIGERIA = '+234';
 
-    /**
-     * Cameroon country code.
-     * @var int
-     */
-    public function cameroon()
-    {
-        return +237;
-    }
+    //Angola
+    const ANGOLA = '+244';
 
-    /**
-     * Central Africa Republic country code.
-     * @var int
-     */
-    public function car()
-    {
-        return +236;
-    }
+    //Cameroon
+    const CAMEROON = '+237';
 }
