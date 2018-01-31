@@ -8,5 +8,11 @@ class CountryCode
 
     //Angola
     const ANGOLA = '+244';
+    
+    //Cameroon
+    const CAMEROON = '+237';
+    
+    //Chad
+    const CHAD = '+235';
 
 }
