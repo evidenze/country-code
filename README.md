@@ -1,3 +1,7 @@
+# country-code
+
+[![Build Status](https://travis-ci.org/evidenze/country-code.svg?branch=master)](https://travis-ci.org/evidenze/country-code)
+
 ## Installation
 
 ```
