@@ -14,5 +14,11 @@ class CountryCode
     
     //Chad
     const CHAD = '+235';
+    
+    //DR Congo
+    const DRC = '+243';
+    
+    //Republic of Congo
+    const RC = '+242';
 
 }
